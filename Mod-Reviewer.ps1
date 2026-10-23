@@ -91,6 +91,12 @@ $cheatStrings = @(
         "AutoAnchor",
         "AutoCrystal",
         "AutoAnchor",
+        "WTab",
+        "PearlCatch",
+        "HitSelect",
+        "JumpReset",
+        "SilentAura",
+        "FakeLag",
         "AutoDoubleHand",
         "AutoHitCrystal",
         "AutoPot",
@@ -113,7 +119,9 @@ $cheatStrings = @(
         "FastBreak",
         "AutoStun",
         "BrandSpoof",
-        "InvMove"
+        "InvMove",
+        "Doomsday",
+        "AntiVanish"
 )
 
 function Check-Strings {
